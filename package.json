@@ -13,7 +13,8 @@
     "test": "jest --colors",
     "test:debug": "node --inspect=9229 --inspect-brk ./node_modules/.bin/jest --runInBand",
     "test:watch": "yarn test:truncate && jest --watch",
-    "build-and-publish": "yarn build && npm login && npm publish"
+    "build-and-publish": "yarn build && npm login && npm publish",
+    "postinstall": "yarn build"
   },
   "jest": {
     "reporters": [ "default" ],
