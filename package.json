@@ -1,6 +1,6 @@
 {
   "name": "factory.ts",
-  "version": "0.5.2",
+  "version": "0.5.2-mfc",
   "license": "MIT",
   "description": "A Typescript test data factory similar to factory_bot and rosie",
   "scripts": {
@@ -32,15 +32,12 @@
     ]
   },
   "repository": "https://github.com/willryan/factory.ts",
-  "engines": {
-    "node": ">= 14"
-  },
   "main": "lib/index.js",
   "typings": "lib/index",
   "files": [
     "lib/"
   ],
-  "author": "Will Pleasant-Ryan",
+  "author": "Will Pleasant-Ryan + @davidvmckay",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.19.0",
     "@typescript-eslint/parser": "^4.19.0",
