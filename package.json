@@ -1,5 +1,5 @@
 {
-  "name": "factory.ts",
+  "name": "factory-ts",
   "version": "0.5.2-mfc",
   "license": "MIT",
   "description": "A Typescript test data factory similar to factory_bot and rosie",
@@ -31,7 +31,7 @@
       "<rootDir>/jest-setup.ts"
     ]
   },
-  "repository": "https://github.com/willryan/factory.ts",
+  "repository": "https://github.com/masterpiece-flower-company/factory.ts.git",
   "main": "lib/index.js",
   "typings": "lib/index",
   "files": [
