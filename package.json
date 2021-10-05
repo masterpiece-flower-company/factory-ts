@@ -1,6 +1,6 @@
 {
   "name": "factory-ts",
-  "version": "0.5.2-mfc",
+  "version": "0.5.2-mfc-1",
   "author": "Will Pleasant-Ryan + @davidvmckay",
   "license": "MIT",
   "description": "A Typescript test data factory similar to factory_bot and rosie",
@@ -35,7 +35,7 @@
     "jest": "^27.2.4",
     "jest-environment-node-debug": "^2.0.0",
     "ts-jest": "^27.0.5",
-    "ts-node": "^10.2.1",
+    "ts-node": "^9",
     "typescript": "4.4.3"
   },
   "dependencies": {
